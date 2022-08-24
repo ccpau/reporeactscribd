@@ -7,10 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>CC SCRIBD</h1>
-        <h2>LINKING: GIT</h2>
-        <h3>LINKING: Netlify </h3>
-        <h4> DEV </h4>
-        <h4> PRD </h4>
+        <h2>ENV: STAGING</h2>
       </header>
     </div>
   );
