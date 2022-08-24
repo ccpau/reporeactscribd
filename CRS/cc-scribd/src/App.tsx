@@ -9,7 +9,8 @@ function App() {
         <h1>CC SCRIBD</h1>
         <h2>LINKING: GIT</h2>
         <h3>LINKING: Netlify </h3>
-        <h4> DEV | PRD </h4>
+        <h4> DEV </h4>
+        <h4> PRD </h4>
       </header>
     </div>
   );
