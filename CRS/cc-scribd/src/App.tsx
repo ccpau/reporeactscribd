@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>CC SCRIBD</h1>
-        <h2>ENV: STAGING</h2>
+        <h2>ENV: MAIN - PRODUCTION </h2>
+        {/* <h2>ENV: STAGING - DEVELOPMENT</h2> */}
       </header>
     </div>
   );
