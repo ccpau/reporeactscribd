@@ -9,8 +9,8 @@ function App() {
       <h1>CC VITE REACT SCRIBD</h1>
       <h2>GITHUB LINKED</h2>
       <h2>NETLIFY LINKED</h2>
-      <h3>ENVIRONMENT: PRODUCTION</h3>
-      {/* <h3>ENVIRONMENT: STAGING</h3> */}
+      {/* <h3>ENVIRONMENT: PRODUCTION</h3> */}
+      <h3>ENVIRONMENT: STAGING</h3>
       {/* <nav>
         <div className="menu">
           <Link to="/">Home</Link>
